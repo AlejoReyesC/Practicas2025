@@ -1,0 +1,8 @@
+com\example\restapidemo\RestApiDemoApplication.class
+com\example\restapidemo\config\CorsConfig.class
+com\example\restapidemo\controller\PerfilController.class
+com\example\restapidemo\service\PerfilService.class
+com\example\restapidemo\model\Perfil.class
+com\example\restapidemo\controller\UserController.class
+com\example\restapidemo\model\User.class
+com\example\restapidemo\config\OpenApiConfig.class
